@@ -1,0 +1,40 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    color: white;
+}
+button{
+    background-color: #f08804 ;
+}
+#logo{
+    font-size: 35px;
+}
+
+a{
+    margin-right: 200px;
+    text-decoration: none;
+}
+#web{
+
+    height: 60px;
+    background-color: black;
+}
+#content{
+    height: 630px;
+}
+
+#contentbox1{
+    color: #0f1111;
+    height: 400px;
+    width: 400px;src: 
+    display:  inline-block;
+    background-image: url("cloth.jpg");
+    background-size:contain;
+    background-repeat:no-repeat;
+}
+
+footer{
+    background-color: #0f1111;
+    color: white;
+    text-align: center;
+}
